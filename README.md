@@ -1,11 +1,7 @@
 # Customer Churn Analysis with Python
-### Uncovering Insights into Customer Cancellations
-
-This repository contains a Python project focused on analyzing customer churn for a company with a large client base (800,000+). Faced with a high rate of inactive customers who canceled their service, the company seeks to understand the driving factors behind these cancellations and develop strategies to mitigate churn.
-
 ## Project Overview
 
-This data analysis project was part of the "Python Journey" crash course offered by Hashtag. It leverages the power of Python libraries like Pandas and Plotly to extract valuable insights from customer data and provide actionable recommendations.
+This repository contains a Python project focused on analyzing customer churn for a company with a large client base (800,000+). Faced with a high rate of inactive customers who canceled their service, the company seeks to understand the driving factors behind these cancellations and develop strategies to mitigate churn. The project leverages the power of Pandas and Plotly to extract valuable insights from customer data and provide actionable recommendations.
 
 ## Dataset
 
